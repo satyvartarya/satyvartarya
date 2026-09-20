@@ -1,7 +1,6 @@
 # About me
 
-- 🔭 I’m currently working to learn
-- 🌱 I’m currently learning 
+- 🔭 I’m working to learn
 - 👯 I’m looking to collaborate on anything great
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about me
